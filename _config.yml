@@ -1,5 +1,6 @@
-title: NelsonSky Git Page
-author: NelsonSky
+# Created by Jekyll Writer
+title: Will U Do Page
+author: Will U Do
 permalink: '/:year/:month/:day/:title/'
 paginate: 6
 paginate_path: '/page/:num/'
