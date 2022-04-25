@@ -1,9 +1,0 @@
-# Created by Jekyll Writer
-title: Will U Do Page
-author: Will U Do
-permalink: '/:year/:month/:day/:title/'
-paginate: 6
-paginate_path: '/page/:num/'
-gems:
-  - jekyll-paginate
-baseurl: ''
